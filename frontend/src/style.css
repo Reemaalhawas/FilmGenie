@@ -1,0 +1,422 @@
+/* Global Styles */
+:root {
+    --primary-color: #6a1b9a;
+    --secondary-color: #9c27b0;
+    --accent-color: #d500f9;
+    --background-color: #f5f5f5;
+    --text-color: #333;
+    --light-text: #666;
+    --white: #fff;
+    --error-color: #f44336;
+    --success-color: #4caf50;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+  }
+  
+  a {
+    text-decoration: none;
+    color: var(--primary-color);
+  }
+  
+  button {
+    cursor: pointer;
+    font-family: inherit;
+  }
+  
+  /* Navbar Styles */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: var(--white);
+    box-shadow: var(--box-shadow);
+  }
+  
+  .navbar-logo h1 {
+    color: var(--primary-color);
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .navbar-tagline {
+    font-size: 0.9rem;
+    color: var(--light-text);
+  }
+  
+  .navbar-links {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+  }
+  
+  .nav-link {
+    color: var(--text-color);
+    font-weight: 500;
+    transition: var(--transition);
+  }
+  
+  .nav-link:hover {
+    color: var(--primary-color);
+  }
+  
+  .signup-btn,
+  .logout-btn {
+    background-color: var(--primary-color);
+    color: var(--white);
+    padding: 0.5rem 1rem;
+    border-radius: var(--border-radius);
+    border: none;
+    font-weight: 500;
+    transition: var(--transition);
+  }
+  
+  .signup-btn:hover,
+  .logout-btn:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  /* Auth Form Styles */
+  .auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 80px);
+    padding: 2rem;
+  }
+  
+  .auth-form-container {
+    background-color: var(--white);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    width: 100%;
+    max-width: 450px;
+  }
+  
+  .auth-form-container h2 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+  
+  .subtitle {
+    text-align: center;
+    color: var(--light-text);
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    transition: var(--transition);
+  }
+  
+  .form-group input:focus {
+    border-color: var(--primary-color);
+    outline: none;
+  }
+  
+  .auth-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    font-weight: 500;
+    transition: var(--transition);
+    margin-top: 1rem;
+  }
+  
+  .auth-button:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  .auth-footer {
+    margin-top: 1.5rem;
+    text-align: center;
+    color: var(--light-text);
+  }
+  
+  .error-message {
+    background-color: rgba(244, 67, 54, 0.1);
+    color: var(--error-color);
+    padding: 0.75rem;
+    border-radius: var(--border-radius);
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Home Page Styles */
+  .home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .hero-section {
+    text-align: center;
+    padding: 3rem 1rem;
+    margin-bottom: 3rem;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 1.5rem;
+  }
+  
+  .hero-description {
+    max-width: 700px;
+    margin: 0 auto 2rem;
+    font-size: 1.1rem;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .cta-button {
+    padding: 0.75rem 2rem;
+    border-radius: var(--border-radius);
+    font-weight: 500;
+    transition: var(--transition);
+  }
+  
+  .cta-button.primary {
+    background-color: var(--primary-color);
+    color: var(--white);
+  }
+  
+  .cta-button.primary:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  .cta-button.secondary {
+    background-color: transparent;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+  }
+  
+  .cta-button.secondary:hover {
+    background-color: rgba(106, 27, 154, 0.1);
+  }
+  
+  .features-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+  
+  .feature {
+    background-color: var(--white);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    text-align: center;
+  }
+  
+  .feature h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+  }
+  
+  /* Movie Recommendations Styles */
+  .recommendations-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .recommendations-container h1 {
+    color: var(--primary-color);
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .filter-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .search-box input {
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: var(--border-radius);
+    width: 300px;
+    font-size: 1rem;
+  }
+  
+  .genre-filter {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .genre-filter select {
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+  }
+  
+  .movies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+  
+  .movie-card {
+    background-color: var(--white);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+  }
+  
+  .movie-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-poster img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+  }
+  
+  .movie-info {
+    padding: 1.5rem;
+  }
+  
+  .movie-info h3 {
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+  }
+  
+  .movie-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+  }
+  
+  .movie-genre {
+    background-color: rgba(106, 27, 154, 0.1);
+    color: var(--primary-color);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+  }
+  
+  .movie-rating {
+    color: #ff9800;
+    font-weight: 500;
+  }
+  
+  .movie-director {
+    color: var(--light-text);
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
+  
+  .movie-description {
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  
+  .add-watchlist-btn {
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: var(--border-radius);
+    font-size: 0.9rem;
+    transition: var(--transition);
+  }
+  
+  .add-watchlist-btn:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  .no-results {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--white);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      padding: 1rem;
+    }
+  
+    .navbar-logo {
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+  
+    .filter-container {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  
+    .search-box input {
+      width: 100%;
+    }
+  
+    .genre-filter {
+      justify-content: space-between;
+    }
+  
+    .cta-buttons {
+      flex-direction: column;
+    }
+  }
+  
+  
