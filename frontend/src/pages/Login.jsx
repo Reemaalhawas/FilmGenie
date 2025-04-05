@@ -1,49 +1,26 @@
-"use client"
+// Login.jsx
+import React from "react";
+import "./Auth.css";  // assume some styling for auth buttons/containers
 
-import { useState } from "react"
-import { Link } from "react-router-dom"
-import "./App.css"
-
-function Login({ onLogin }) {
-  const [email, setEmail] = useState("")
-  const [password, setPassword] = useState("")
-
-  const handleSubmit = (e) => {
-    e.preventDefault()
-    console.log("Logging in with:", email)
-    onLogin()
-  }
+function Login() {
+  const handleGoogleLogin = () => {
+    // Redirect the browser to the Flask OAuth login route
+    window.location.href = "/login/google";
+  };
 
   return (
     <div className="auth-container">
       <div className="auth-form-container">
-        <h2>Log In to Genie</h2>
-        <form onSubmit={handleSubmit}>
-          <div className="form-group">
-            <label htmlFor="email">Email</label>
-            <input type="email" id="email" value={email} onChange={(e) => setEmail(e.target.value)} required />
-          </div>
-          <div className="form-group">
-            <label htmlFor="password">Password</label>
-            <input
-              type="password"
-              id="password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              required
-            />
-          </div>
-          <button type="submit" className="auth-button">
-            Log In
-          </button>
-        </form>
-        <div className="auth-footer">
-          Don't have an account? <Link to="/signup">Sign Up</Link>
-        </div>
+        <h2>Log In to FilmGenie</h2>
+        <button className="google-button" onClick={handleGoogleLogin}>
+          <img src="https://developers.google.com/identity/images/g-logo.png" alt="Google logo" />
+          Sign in with Google
+        </button>
       </div>
     </div>
-  )
+  );
 }
 
-export default Login
+export default Login;
+
 
