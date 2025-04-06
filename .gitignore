@@ -1,0 +1,16 @@
+# Ignore all Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore files from Git LFS
+*.tar
+*.gz
+
+# Ignore .DS_Store files (macOS)
+.DS_Store
+
+# Ignore large dataset
+final_merged_dataset.txt
