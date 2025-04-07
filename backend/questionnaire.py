@@ -167,7 +167,7 @@ class MovieQuestionnaire:
 
 def main():
     try:
-        # Initialize questionnaire and recommender
+        
         questionnaire = MovieQuestionnaire()
         recommender = MovieRecommender()
         
