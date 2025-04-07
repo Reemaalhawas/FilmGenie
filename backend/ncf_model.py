@@ -332,7 +332,7 @@ class MovieRecommender:
         plt.tight_layout()
         plt.show()
         
-        # Print final metrics
+        
         final_metrics = {
             'Training Loss': self.training_history.history['loss'][-1],
             'Validation Loss': self.training_history.history['val_loss'][-1],
