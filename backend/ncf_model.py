@@ -6,7 +6,6 @@ from keras.layers import (
     Dropout, BatchNormalization, Activation
 )
 from keras.models import Model
-from keras.callbacks import EarlyStopping, ReduceLROnPlateau, TensorBoard
 from keras.optimizers import Adam
 from keras.initializers import GlorotNormal
 from sklearn.preprocessing import LabelEncoder, StandardScaler
@@ -132,7 +131,7 @@ class MovieRecommender:
         # Concatenate all inputs
         concat = Concatenate()([user_embedding, movie_embedding, feature_dense])
 
-        # MLP layers with more regularization
+        # MLP layers
         x = Dense(128, activation='relu')(concat)
         x = BatchNormalization()(x)
         x = Dropout(0.3)(x)
@@ -142,7 +141,7 @@ class MovieRecommender:
         x = Dense(32, activation='relu')(x)
         x = BatchNormalization()(x)
 
-        # Output layer with temperature scaling
+        # Output layer
         output = Dense(1, activation='sigmoid')(x)
 
         # Create model
@@ -151,7 +150,7 @@ class MovieRecommender:
             outputs=output
         )
 
-        # Compile model with learning rate 0.001 and additional metrics
+        # Compile model
         model.compile(
             optimizer=Adam(learning_rate=0.001),
             loss='binary_crossentropy',
@@ -424,21 +423,6 @@ class MovieRecommender:
             # X already contains encoded IDs from prepare_training_data
             X_user, X_movie, X_features = X
             
-            # Add early stopping and learning rate reduction
-            callbacks = [
-                EarlyStopping(
-                    monitor='val_loss',
-                    patience=3,
-                    restore_best_weights=True
-                ),
-                ReduceLROnPlateau(
-                    monitor='val_loss',
-                    factor=0.2,
-                    patience=2,
-                    min_lr=0.00001
-                )
-            ]
-            
             # Train the model
             history = self.model.fit(
                 [X_user, X_movie, X_features],
@@ -446,7 +430,6 @@ class MovieRecommender:
                 epochs=epochs,
                 batch_size=batch_size,
                 validation_split=0.2,
-                callbacks=callbacks,
                 verbose=1
             )
             
@@ -828,15 +811,14 @@ class MovieRecommender:
             # Get predictions
             predictions = self.model.predict([user_ids, movie_indices, features])
             
-            # Apply temperature scaling to spread out predictions
-            temperature = 2.0  # Higher temperature = more spread
+            # Apply temperature scaling
+            temperature = 2.0
             scaled_predictions = predictions / temperature
             
             # Sort movies by prediction score
             movie_scores = list(zip(valid_movie_ids, scaled_predictions.flatten()))
             movie_scores.sort(key=lambda x: x[1], reverse=True)
             
-            # Return top N recommendations with their scores
             return movie_scores[:top_n]
             
         except Exception as e:
