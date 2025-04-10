@@ -1,11 +1,4 @@
-{
-    "users": [
-        {
-            "user_id": 1,
-            "preferences": {
-                "genres_liked": [
-                    "Western",
-                    "Crime",
+{"Crime",
                     "Romance"
                 ],
                 "mood": "Calm",

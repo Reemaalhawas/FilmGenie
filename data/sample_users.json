@@ -1,0 +1,68 @@
+{
+    "1": {
+        "user_id": 1,
+        "preferences": {
+            "liked_genres": ["Comedy", "Drama", "Romance"],
+            "disliked_genres": ["Horror", "Action"],
+            "mood": "Happy",
+            "desired_feeling": "Happy",
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Medium",
+            "language": "English",
+            "streaming_platform": "Netflix"
+        },
+        "ratings": {
+            "1": 4.5,
+            "2": 4.0,
+            "3": 5.0,
+            "4": 3.5,
+            "5": 4.8
+        }
+    },
+    "2": {
+        "user_id": 2,
+        "preferences": {
+            "liked_genres": ["Comedy", "Animation", "Family"],
+            "disliked_genres": ["Horror", "Thriller"],
+            "mood": "Happy",
+            "desired_feeling": "Happy",
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "English",
+            "streaming_platform": "Disney+"
+        },
+        "ratings": {
+            "1": 4.0,
+            "6": 4.5,
+            "7": 5.0,
+            "8": 4.2,
+            "9": 4.7
+        }
+    },
+    "3": {
+        "user_id": 3,
+        "preferences": {
+            "liked_genres": ["Drama", "Romance", "Comedy"],
+            "disliked_genres": ["Action", "Sci-Fi"],
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Medium",
+            "language": "English",
+            "streaming_platform": "Netflix"
+        },
+        "ratings": {
+            "2": 4.8,
+            "3": 4.6,
+            "10": 4.3,
+            "11": 4.9,
+            "12": 4.4
+        }
+    }
+} 
