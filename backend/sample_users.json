@@ -1,0 +1,3370 @@
+[
+    {
+        "user_id": 1,
+        "watched_movies": [
+            271,
+            447,
+            281,
+            103
+        ],
+        "ratings": [
+            3,
+            4,
+            5,
+            1
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Contemporary",
+            "rating": "R",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 2,
+        "watched_movies": [
+            454,
+            194,
+            269,
+            324
+        ],
+        "ratings": [
+            1,
+            4,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Documentary",
+                "Fantasy",
+                "Animation"
+            ],
+            "disliked_genres": [
+                "Documentary"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 3,
+        "watched_movies": [
+            322,
+            102,
+            179,
+            543
+        ],
+        "ratings": [
+            2,
+            2,
+            5,
+            2
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Sci-Fi",
+                "Drama",
+                "Animation"
+            ],
+            "disliked_genres": [
+                "Sci-Fi",
+                "Comedy"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "Any",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 4,
+        "watched_movies": [
+            487,
+            146,
+            524,
+            522,
+            195
+        ],
+        "ratings": [
+            5,
+            1,
+            4,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Drama"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Foreign",
+            "time_period": "Specific",
+            "rating": "R",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 5,
+        "watched_movies": [
+            531,
+            560,
+            559,
+            517,
+            381
+        ],
+        "ratings": [
+            3,
+            2,
+            2,
+            4,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Sci-Fi"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 6,
+        "watched_movies": [
+            332,
+            597,
+            258
+        ],
+        "ratings": [
+            3,
+            4,
+            4
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Fantasy",
+                "Comedy",
+                "Drama"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 7,
+        "watched_movies": [
+            368,
+            328,
+            232
+        ],
+        "ratings": [
+            1,
+            5,
+            1
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "PG-13",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 8,
+        "watched_movies": [
+            595,
+            153,
+            501,
+            417,
+            450
+        ],
+        "ratings": [
+            3,
+            5,
+            3,
+            5,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Comedy",
+                "Horror",
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Drama",
+                "Romance"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "Any",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 9,
+        "watched_movies": [
+            511,
+            445,
+            461
+        ],
+        "ratings": [
+            1,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Thriller"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 10,
+        "watched_movies": [
+            499,
+            460,
+            256,
+            446
+        ],
+        "ratings": [
+            5,
+            1,
+            4,
+            2
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Action",
+                "Thriller",
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Documentary",
+                "Drama"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "Any",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 11,
+        "watched_movies": [
+            362,
+            278,
+            211,
+            373,
+            259
+        ],
+        "ratings": [
+            2,
+            3,
+            2,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Horror"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 12,
+        "watched_movies": [
+            243,
+            520,
+            516,
+            154
+        ],
+        "ratings": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Animation",
+                "Drama",
+                "Comedy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "Any",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 13,
+        "watched_movies": [
+            593,
+            351,
+            332,
+            433
+        ],
+        "ratings": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Comedy",
+                "Thriller",
+                "Action"
+            ],
+            "disliked_genres": [
+                "Drama"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 14,
+        "watched_movies": [
+            490,
+            498,
+            349,
+            269,
+            454
+        ],
+        "ratings": [
+            4,
+            3,
+            1,
+            3,
+            4
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Animation",
+                "Action",
+                "Sci-Fi"
+            ],
+            "disliked_genres": [
+                "Thriller",
+                "Comedy"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "Any",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 15,
+        "watched_movies": [
+            438,
+            116,
+            145,
+            482,
+            344
+        ],
+        "ratings": [
+            4,
+            5,
+            1,
+            1,
+            5
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Thriller",
+                "Action"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Any",
+            "rating": "PG",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 16,
+        "watched_movies": [
+            573,
+            259,
+            546
+        ],
+        "ratings": [
+            3,
+            5,
+            1
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Animation",
+                "Fantasy",
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Comedy"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "PG-13",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 17,
+        "watched_movies": [
+            109,
+            303,
+            593,
+            147,
+            558
+        ],
+        "ratings": [
+            5,
+            1,
+            3,
+            5,
+            2
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Animation",
+                "Action",
+                "Horror"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "PG-13",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 18,
+        "watched_movies": [
+            349,
+            202,
+            180
+        ],
+        "ratings": [
+            4,
+            4,
+            1
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Romance",
+                "Documentary"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Specific",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 19,
+        "watched_movies": [
+            421,
+            118,
+            596,
+            323,
+            449
+        ],
+        "ratings": [
+            5,
+            3,
+            5,
+            2,
+            4
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Animation"
+            ],
+            "disliked_genres": [
+                "Horror"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Contemporary",
+            "rating": "Any",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 20,
+        "watched_movies": [
+            242,
+            391,
+            131,
+            185
+        ],
+        "ratings": [
+            5,
+            3,
+            3,
+            4
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Fantasy",
+                "Action"
+            ],
+            "disliked_genres": [
+                "Sci-Fi",
+                "Drama"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Specific",
+            "rating": "PG-13",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 21,
+        "watched_movies": [
+            105,
+            177,
+            450,
+            202,
+            162
+        ],
+        "ratings": [
+            1,
+            1,
+            4,
+            3,
+            5
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Thriller"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Medium",
+            "language": "Foreign",
+            "time_period": "Any",
+            "rating": "PG-13",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 22,
+        "watched_movies": [
+            535,
+            513,
+            231
+        ],
+        "ratings": [
+            5,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Comedy"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "G",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 23,
+        "watched_movies": [
+            258,
+            224,
+            391
+        ],
+        "ratings": [
+            4,
+            2,
+            5
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Thriller",
+                "Romance"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Classic",
+            "rating": "PG",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 24,
+        "watched_movies": [
+            352,
+            453,
+            188,
+            370,
+            134
+        ],
+        "ratings": [
+            3,
+            2,
+            4,
+            5,
+            5
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Drama"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Contemporary",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 25,
+        "watched_movies": [
+            469,
+            433,
+            133
+        ],
+        "ratings": [
+            4,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Romance",
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Documentary"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "G",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 26,
+        "watched_movies": [
+            196,
+            202,
+            221,
+            198,
+            471
+        ],
+        "ratings": [
+            2,
+            5,
+            1,
+            3,
+            5
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Horror",
+                "Animation",
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Fantasy",
+                "Comedy"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Specific",
+            "rating": "PG",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 27,
+        "watched_movies": [
+            459,
+            502,
+            379
+        ],
+        "ratings": [
+            3,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Animation"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Any",
+            "rating": "G",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 28,
+        "watched_movies": [
+            560,
+            351,
+            288,
+            313
+        ],
+        "ratings": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Romance",
+                "Action"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Modern",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 29,
+        "watched_movies": [
+            484,
+            511,
+            392,
+            278,
+            228
+        ],
+        "ratings": [
+            4,
+            2,
+            5,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Documentary"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "R",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 30,
+        "watched_movies": [
+            592,
+            564,
+            269,
+            216,
+            471
+        ],
+        "ratings": [
+            3,
+            1,
+            2,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Action",
+                "Fantasy",
+                "Animation"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Any",
+            "rating": "PG-13",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 31,
+        "watched_movies": [
+            251,
+            424,
+            510,
+            449
+        ],
+        "ratings": [
+            1,
+            4,
+            5,
+            5
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Drama"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 32,
+        "watched_movies": [
+            451,
+            487,
+            113
+        ],
+        "ratings": [
+            3,
+            2,
+            3
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Sci-Fi",
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Action",
+                "Thriller"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "G",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 33,
+        "watched_movies": [
+            117,
+            347,
+            126,
+            379
+        ],
+        "ratings": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Thriller",
+                "Fantasy",
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Drama",
+                "Romance"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Foreign",
+            "time_period": "Classic",
+            "rating": "Any",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 34,
+        "watched_movies": [
+            274,
+            211,
+            450,
+            543,
+            461
+        ],
+        "ratings": [
+            4,
+            2,
+            3,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Comedy",
+                "Romance",
+                "Documentary"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "G",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 35,
+        "watched_movies": [
+            340,
+            138,
+            148,
+            191,
+            467
+        ],
+        "ratings": [
+            3,
+            4,
+            4,
+            4,
+            2
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Horror",
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Fantasy"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 36,
+        "watched_movies": [
+            415,
+            467,
+            413
+        ],
+        "ratings": [
+            4,
+            1,
+            3
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Drama",
+                "Horror"
+            ],
+            "disliked_genres": [
+                "Horror",
+                "Comedy"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Specific",
+            "rating": "G",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 37,
+        "watched_movies": [
+            338,
+            342,
+            546,
+            428,
+            136
+        ],
+        "ratings": [
+            2,
+            5,
+            1,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Romance",
+                "Thriller"
+            ],
+            "disliked_genres": [
+                "Action",
+                "Romance"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 38,
+        "watched_movies": [
+            392,
+            576,
+            224,
+            421,
+            211
+        ],
+        "ratings": [
+            5,
+            5,
+            2,
+            1,
+            2
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Sci-Fi",
+                "Horror"
+            ],
+            "disliked_genres": [
+                "Thriller"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "Any",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 39,
+        "watched_movies": [
+            352,
+            310,
+            275
+        ],
+        "ratings": [
+            3,
+            2,
+            4
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Action",
+                "Animation",
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Horror",
+                "Action"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Contemporary",
+            "rating": "PG",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 40,
+        "watched_movies": [
+            415,
+            542,
+            586,
+            301
+        ],
+        "ratings": [
+            2,
+            2,
+            2,
+            3
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Animation"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "Any",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 41,
+        "watched_movies": [
+            361,
+            332,
+            335,
+            252,
+            386
+        ],
+        "ratings": [
+            3,
+            1,
+            1,
+            4,
+            3
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Thriller",
+                "Romance"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "Any",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 42,
+        "watched_movies": [
+            399,
+            472,
+            165,
+            278
+        ],
+        "ratings": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Animation",
+                "Sci-Fi",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Animation"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "PG-13",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 43,
+        "watched_movies": [
+            400,
+            511,
+            495
+        ],
+        "ratings": [
+            5,
+            5,
+            4
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Fantasy",
+                "Romance",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Fantasy"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "PG-13",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 44,
+        "watched_movies": [
+            167,
+            206,
+            208
+        ],
+        "ratings": [
+            5,
+            4,
+            4
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Thriller",
+                "Romance",
+                "Documentary"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 45,
+        "watched_movies": [
+            202,
+            463,
+            107,
+            393,
+            290
+        ],
+        "ratings": [
+            3,
+            5,
+            3,
+            4,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Action"
+            ],
+            "disliked_genres": [
+                "Thriller",
+                "Romance"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "G",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 46,
+        "watched_movies": [
+            498,
+            167,
+            166,
+            455,
+            492
+        ],
+        "ratings": [
+            4,
+            1,
+            5,
+            4,
+            4
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Fantasy",
+                "Action"
+            ],
+            "disliked_genres": [
+                "Drama",
+                "Action"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 47,
+        "watched_movies": [
+            509,
+            512,
+            318,
+            152
+        ],
+        "ratings": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Thriller",
+                "Animation",
+                "Action"
+            ],
+            "disliked_genres": [
+                "Drama"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 48,
+        "watched_movies": [
+            199,
+            507,
+            391
+        ],
+        "ratings": [
+            3,
+            1,
+            5
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Animation",
+                "Horror",
+                "Thriller"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "PG-13",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 49,
+        "watched_movies": [
+            563,
+            413,
+            219,
+            528
+        ],
+        "ratings": [
+            3,
+            4,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Sci-Fi",
+                "Romance",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Action"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 50,
+        "watched_movies": [
+            500,
+            577,
+            509
+        ],
+        "ratings": [
+            3,
+            3,
+            5
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Action",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "disliked_genres": [
+                "Documentary"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "PG-13",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 51,
+        "watched_movies": [
+            481,
+            111,
+            201,
+            533
+        ],
+        "ratings": [
+            2,
+            5,
+            3,
+            3
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Action",
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Fantasy",
+                "Horror"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Classic",
+            "rating": "G",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 52,
+        "watched_movies": [
+            352,
+            355,
+            467
+        ],
+        "ratings": [
+            1,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Animation"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "R",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 53,
+        "watched_movies": [
+            426,
+            463,
+            156
+        ],
+        "ratings": [
+            4,
+            4,
+            2
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Comedy",
+                "Thriller",
+                "Animation"
+            ],
+            "disliked_genres": [
+                "Animation",
+                "Thriller"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "G",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 54,
+        "watched_movies": [
+            254,
+            506,
+            173,
+            179,
+            104
+        ],
+        "ratings": [
+            4,
+            5,
+            4,
+            2,
+            4
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Drama",
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Romance",
+                "Animation"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "Any",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 55,
+        "watched_movies": [
+            282,
+            309,
+            302
+        ],
+        "ratings": [
+            4,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Thriller",
+                "Romance",
+                "Sci-Fi"
+            ],
+            "disliked_genres": [
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "PG",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 56,
+        "watched_movies": [
+            318,
+            354,
+            570
+        ],
+        "ratings": [
+            4,
+            5,
+            1
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Action",
+                "Fantasy",
+                "Comedy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "PG-13",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 57,
+        "watched_movies": [
+            452,
+            505,
+            449,
+            387
+        ],
+        "ratings": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Horror",
+                "Animation",
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Documentary"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Medium",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 58,
+        "watched_movies": [
+            543,
+            356,
+            453,
+            466,
+            272
+        ],
+        "ratings": [
+            4,
+            2,
+            5,
+            1,
+            4
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Classic",
+            "rating": "R",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 59,
+        "watched_movies": [
+            550,
+            109,
+            504,
+            124,
+            284
+        ],
+        "ratings": [
+            1,
+            2,
+            2,
+            5,
+            4
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Romance",
+                "Drama"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Classic",
+            "rating": "PG",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 60,
+        "watched_movies": [
+            489,
+            265,
+            171
+        ],
+        "ratings": [
+            1,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Horror"
+            ],
+            "disliked_genres": [
+                "Sci-Fi"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "G",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 61,
+        "watched_movies": [
+            564,
+            227,
+            247,
+            119
+        ],
+        "ratings": [
+            3,
+            3,
+            4,
+            4
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Contemporary",
+            "rating": "PG-13",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 62,
+        "watched_movies": [
+            376,
+            461,
+            339
+        ],
+        "ratings": [
+            5,
+            1,
+            4
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Drama",
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Action",
+                "Romance"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Modern",
+            "rating": "G",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 63,
+        "watched_movies": [
+            591,
+            422,
+            555,
+            106
+        ],
+        "ratings": [
+            1,
+            4,
+            4,
+            3
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Drama",
+                "Animation"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Any",
+            "rating": "Any",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 64,
+        "watched_movies": [
+            151,
+            276,
+            564,
+            489,
+            165
+        ],
+        "ratings": [
+            3,
+            2,
+            2,
+            4,
+            4
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Sci-Fi",
+                "Comedy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "PG",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 65,
+        "watched_movies": [
+            104,
+            481,
+            393
+        ],
+        "ratings": [
+            2,
+            5,
+            4
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "English",
+            "time_period": "Contemporary",
+            "rating": "Any",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 66,
+        "watched_movies": [
+            587,
+            349,
+            306
+        ],
+        "ratings": [
+            3,
+            1,
+            4
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Drama",
+                "Documentary",
+                "Action"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "PG-13",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 67,
+        "watched_movies": [
+            256,
+            303,
+            330,
+            259,
+            573
+        ],
+        "ratings": [
+            2,
+            3,
+            5,
+            1,
+            5
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Fantasy",
+                "Horror",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Horror"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "PG-13",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 68,
+        "watched_movies": [
+            103,
+            171,
+            110,
+            312
+        ],
+        "ratings": [
+            3,
+            2,
+            1,
+            2
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Horror"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "PG-13",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 69,
+        "watched_movies": [
+            183,
+            555,
+            210,
+            489
+        ],
+        "ratings": [
+            2,
+            1,
+            1,
+            3
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Drama",
+                "Romance"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 70,
+        "watched_movies": [
+            591,
+            553,
+            385,
+            434,
+            569
+        ],
+        "ratings": [
+            1,
+            3,
+            3,
+            3,
+            4
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Horror",
+                "Drama",
+                "Comedy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "Any",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 71,
+        "watched_movies": [
+            508,
+            451,
+            523,
+            232,
+            559
+        ],
+        "ratings": [
+            2,
+            4,
+            4,
+            2,
+            3
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Horror",
+                "Comedy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Classic",
+            "rating": "PG",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 72,
+        "watched_movies": [
+            553,
+            210,
+            121,
+            591
+        ],
+        "ratings": [
+            2,
+            1,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Classic",
+            "rating": "R",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 73,
+        "watched_movies": [
+            347,
+            372,
+            135,
+            526,
+            272
+        ],
+        "ratings": [
+            2,
+            1,
+            4,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Animation",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 74,
+        "watched_movies": [
+            473,
+            469,
+            367
+        ],
+        "ratings": [
+            2,
+            5,
+            4
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Sci-Fi",
+                "Horror",
+                "Thriller"
+            ],
+            "disliked_genres": [
+                "Animation",
+                "Fantasy"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Contemporary",
+            "rating": "PG-13",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 75,
+        "watched_movies": [
+            448,
+            506,
+            380
+        ],
+        "ratings": [
+            5,
+            3,
+            2
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Fantasy",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Comedy",
+                "Thriller"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "Any",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 76,
+        "watched_movies": [
+            346,
+            143,
+            576
+        ],
+        "ratings": [
+            4,
+            3,
+            5
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Fantasy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Contemporary",
+            "rating": "PG-13",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 77,
+        "watched_movies": [
+            297,
+            174,
+            486,
+            189
+        ],
+        "ratings": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Thriller",
+                "Animation"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Specific",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 78,
+        "watched_movies": [
+            595,
+            258,
+            434,
+            495
+        ],
+        "ratings": [
+            4,
+            2,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Drama",
+                "Animation",
+                "Thriller"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "PG-13",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 79,
+        "watched_movies": [
+            592,
+            454,
+            360
+        ],
+        "ratings": [
+            1,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "disliked_genres": [
+                "Romance"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Classic",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 80,
+        "watched_movies": [
+            130,
+            263,
+            570,
+            507,
+            279
+        ],
+        "ratings": [
+            4,
+            4,
+            5,
+            5,
+            3
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "disliked_genres": [
+                "Comedy",
+                "Documentary"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "R",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 81,
+        "watched_movies": [
+            155,
+            322,
+            361,
+            333
+        ],
+        "ratings": [
+            4,
+            5,
+            2,
+            5
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Documentary",
+                "Romance",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Horror",
+                "Documentary"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "R",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 82,
+        "watched_movies": [
+            516,
+            540,
+            269,
+            526,
+            429
+        ],
+        "ratings": [
+            4,
+            4,
+            1,
+            3,
+            3
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Fantasy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "English",
+            "time_period": "Contemporary",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 83,
+        "watched_movies": [
+            117,
+            174,
+            269,
+            513
+        ],
+        "ratings": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Documentary",
+                "Fantasy"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 84,
+        "watched_movies": [
+            376,
+            327,
+            307
+        ],
+        "ratings": [
+            4,
+            1,
+            5
+        ],
+        "preferences": {
+            "mood": "Sad",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Thriller",
+                "Romance",
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Animation"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Modern",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 85,
+        "watched_movies": [
+            269,
+            360,
+            375
+        ],
+        "ratings": [
+            3,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Fantasy",
+                "Romance",
+                "Documentary"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Foreign",
+            "time_period": "Modern",
+            "rating": "Any",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 86,
+        "watched_movies": [
+            224,
+            522,
+            156,
+            597,
+            184
+        ],
+        "ratings": [
+            5,
+            1,
+            2,
+            1,
+            2
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Action",
+                "Documentary",
+                "Sci-Fi"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Foreign",
+            "time_period": "Contemporary",
+            "rating": "PG-13",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 87,
+        "watched_movies": [
+            548,
+            249,
+            371
+        ],
+        "ratings": [
+            1,
+            2,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Documentary"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "Both",
+            "time_period": "Modern",
+            "rating": "R",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 88,
+        "watched_movies": [
+            125,
+            432,
+            448,
+            575
+        ],
+        "ratings": [
+            5,
+            5,
+            2,
+            5
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Documentary",
+                "Drama",
+                "Fantasy"
+            ],
+            "disliked_genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "PG-13",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 89,
+        "watched_movies": [
+            358,
+            290,
+            528,
+            418,
+            119
+        ],
+        "ratings": [
+            3,
+            2,
+            1,
+            3,
+            2
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Horror",
+                "Fantasy",
+                "Thriller"
+            ],
+            "disliked_genres": [
+                "Fantasy",
+                "Action"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Moderate",
+            "pacing": "Medium",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Modern",
+            "rating": "Any",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 90,
+        "watched_movies": [
+            227,
+            425,
+            285
+        ],
+        "ratings": [
+            2,
+            2,
+            2
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "disliked_genres": [
+                "Romance",
+                "Sci-Fi"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 91,
+        "watched_movies": [
+            186,
+            324,
+            393
+        ],
+        "ratings": [
+            2,
+            5,
+            1
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Horror",
+                "Drama"
+            ],
+            "disliked_genres": [
+                "Sci-Fi"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Moderate",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "English",
+            "time_period": "Classic",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 92,
+        "watched_movies": [
+            412,
+            256,
+            120,
+            323,
+            452
+        ],
+        "ratings": [
+            3,
+            4,
+            3,
+            4,
+            3
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Relaxed",
+            "liked_genres": [
+                "Fantasy",
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Drama"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Medium",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 93,
+        "watched_movies": [
+            184,
+            100,
+            190,
+            127,
+            263
+        ],
+        "ratings": [
+            3,
+            2,
+            1,
+            3,
+            3
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Happy",
+            "liked_genres": [
+                "Drama",
+                "Documentary"
+            ],
+            "disliked_genres": [
+                "Horror",
+                "Fantasy"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Simple",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "English",
+            "time_period": "Any",
+            "rating": "PG-13",
+            "streaming_platform": "Disney+"
+        }
+    },
+    {
+        "user_id": 94,
+        "watched_movies": [
+            201,
+            399,
+            569,
+            191
+        ],
+        "ratings": [
+            2,
+            4,
+            4,
+            2
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Romance"
+            ],
+            "attention_level": "Moderate",
+            "plot_complexity": "Complex",
+            "pacing": "Slow",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    },
+    {
+        "user_id": 95,
+        "watched_movies": [
+            399,
+            319,
+            171
+        ],
+        "ratings": [
+            4,
+            4,
+            5
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Excited",
+            "liked_genres": [
+                "Comedy"
+            ],
+            "disliked_genres": [
+                "Comedy"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Complex",
+            "pacing": "Medium",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Modern",
+            "rating": "PG-13",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 96,
+        "watched_movies": [
+            577,
+            592,
+            162
+        ],
+        "ratings": [
+            4,
+            4,
+            1
+        ],
+        "preferences": {
+            "mood": "Thoughtful",
+            "desired_feeling": "Sad",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Animation"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "English",
+            "time_period": "Modern",
+            "rating": "G",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 97,
+        "watched_movies": [
+            127,
+            589,
+            273,
+            236,
+            336
+        ],
+        "ratings": [
+            1,
+            4,
+            1,
+            2,
+            3
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Romance"
+            ],
+            "disliked_genres": [
+                "Romance",
+                "Fantasy"
+            ],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Any",
+            "rating": "R",
+            "streaming_platform": "Other"
+        }
+    },
+    {
+        "user_id": 98,
+        "watched_movies": [
+            317,
+            113,
+            560,
+            543
+        ],
+        "ratings": [
+            3,
+            5,
+            2,
+            5
+        ],
+        "preferences": {
+            "mood": "Relaxed",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Documentary",
+                "Animation",
+                "Romance"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Casual",
+            "plot_complexity": "Complex",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Specific",
+            "rating": "G",
+            "streaming_platform": "Netflix"
+        }
+    },
+    {
+        "user_id": 99,
+        "watched_movies": [
+            547,
+            366,
+            328,
+            100
+        ],
+        "ratings": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "preferences": {
+            "mood": "Excited",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Animation"
+            ],
+            "disliked_genres": [],
+            "attention_level": "Full",
+            "plot_complexity": "Simple",
+            "pacing": "Fast",
+            "movie_length": "Long",
+            "language": "Both",
+            "time_period": "Contemporary",
+            "rating": "PG",
+            "streaming_platform": "Hulu"
+        }
+    },
+    {
+        "user_id": 100,
+        "watched_movies": [
+            568,
+            507,
+            121,
+            460
+        ],
+        "ratings": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "preferences": {
+            "mood": "Happy",
+            "desired_feeling": "Thoughtful",
+            "liked_genres": [
+                "Animation"
+            ],
+            "disliked_genres": [
+                "Horror",
+                "Drama"
+            ],
+            "attention_level": "Full",
+            "plot_complexity": "Moderate",
+            "pacing": "Fast",
+            "movie_length": "Short",
+            "language": "Both",
+            "time_period": "Classic",
+            "rating": "PG",
+            "streaming_platform": "Amazon"
+        }
+    }
+]
