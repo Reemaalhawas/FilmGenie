@@ -1,0 +1,3468 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Crime",
+                    "Romance"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Thrilled",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                959,
+                402,
+                506,
+                778,
+                174,
+                929,
+                626,
+                768,
+                933,
+                49
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                3,
+                3,
+                4,
+                3,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 2,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Comedy",
+                    "Music"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Excited",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                800,
+                632,
+                104
+            ],
+            "ratings": [
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 3,
+            "preferences": {
+                "genres_liked": [
+                    "Romance",
+                    "Adventure"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                207,
+                168,
+                146,
+                827,
+                76,
+                673
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                3,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 4,
+            "preferences": {
+                "genres_liked": [
+                    "Mystery",
+                    "Crime",
+                    "Horror",
+                    "Western"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Inspired",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                6,
+                120,
+                776,
+                309,
+                117,
+                141,
+                901,
+                161,
+                154,
+                407
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                3,
+                5,
+                4,
+                5,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 5,
+            "preferences": {
+                "genres_liked": [
+                    "Documentary",
+                    "Thriller",
+                    "Music"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Happy",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                177,
+                654,
+                903,
+                860,
+                7,
+                624,
+                204,
+                916
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                3,
+                5,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 6,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Adventure",
+                    "Sci-Fi"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                576,
+                813,
+                585
+            ],
+            "ratings": [
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 7,
+            "preferences": {
+                "genres_liked": [
+                    "Drama",
+                    "War",
+                    "Adventure",
+                    "Mystery"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Happy",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                133,
+                690,
+                263,
+                430,
+                899,
+                871,
+                447,
+                145,
+                199
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                5,
+                4,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 8,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Documentary",
+                    "War",
+                    "Romance",
+                    "History"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Relaxed",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                512,
+                65,
+                964,
+                306,
+                302,
+                400,
+                249,
+                617
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                3,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 9,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Romance",
+                    "Thriller"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Relaxed",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                432,
+                688,
+                501,
+                440,
+                455,
+                111,
+                268,
+                481,
+                28,
+                831
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                3,
+                5,
+                4,
+                5,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 10,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Family",
+                    "Sci-Fi"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                237,
+                253,
+                708,
+                786,
+                206,
+                445,
+                165,
+                674
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                3,
+                3,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 11,
+            "preferences": {
+                "genres_liked": [
+                    "Documentary",
+                    "History",
+                    "Animation",
+                    "War"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                175,
+                556,
+                910,
+                166,
+                895,
+                879
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 12,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Sci-Fi",
+                    "Action"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Inspired",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                905,
+                969,
+                359
+            ],
+            "ratings": [
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 13,
+            "preferences": {
+                "genres_liked": [
+                    "Drama",
+                    "Crime",
+                    "Thriller"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                566,
+                378,
+                438,
+                787,
+                996,
+                992,
+                890,
+                576,
+                428
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                5,
+                4,
+                3,
+                5,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 14,
+            "preferences": {
+                "genres_liked": [
+                    "Fantasy",
+                    "Action",
+                    "Family",
+                    "Western"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                774,
+                627,
+                149,
+                451,
+                488,
+                521,
+                266,
+                383
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                3,
+                3,
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 15,
+            "preferences": {
+                "genres_liked": [
+                    "Music",
+                    "Romance",
+                    "War",
+                    "Action",
+                    "Crime"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Inspired",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                330,
+                512,
+                429
+            ],
+            "ratings": [
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 16,
+            "preferences": {
+                "genres_liked": [
+                    "Mystery",
+                    "Adventure",
+                    "Animation",
+                    "Thriller"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Inspired",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                273,
+                779,
+                322,
+                24,
+                12,
+                19,
+                199,
+                871
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                5,
+                5,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 17,
+            "preferences": {
+                "genres_liked": [
+                    "Fantasy",
+                    "Action",
+                    "Thriller"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Inspired",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                548,
+                714,
+                95,
+                152
+            ],
+            "ratings": [
+                5,
+                5,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 18,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Romance",
+                    "Thriller",
+                    "Horror"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Excited",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                50,
+                544,
+                944,
+                913
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 19,
+            "preferences": {
+                "genres_liked": [
+                    "Action",
+                    "Fantasy",
+                    "Family"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Excited",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                889,
+                712,
+                815,
+                459
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 20,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Sci-Fi"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                365,
+                281,
+                358,
+                976,
+                217,
+                290,
+                257,
+                363
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                5,
+                3,
+                4,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 21,
+            "preferences": {
+                "genres_liked": [
+                    "Crime",
+                    "Western",
+                    "Mystery"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                323,
+                881,
+                131,
+                187
+            ],
+            "ratings": [
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 22,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Music",
+                    "Western"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                491,
+                801,
+                395,
+                917,
+                283,
+                419,
+                214
+            ],
+            "ratings": [
+                3,
+                5,
+                4,
+                3,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 23,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Animation",
+                    "Fantasy",
+                    "Sci-Fi",
+                    "Action"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                80,
+                241,
+                872
+            ],
+            "ratings": [
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 24,
+            "preferences": {
+                "genres_liked": [
+                    "Comedy",
+                    "Fantasy",
+                    "Crime",
+                    "Western"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                809,
+                987,
+                790,
+                459,
+                995,
+                148,
+                963,
+                820,
+                670
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                3,
+                4,
+                5,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 25,
+            "preferences": {
+                "genres_liked": [
+                    "Romance",
+                    "Thriller",
+                    "Documentary",
+                    "History"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                354,
+                735,
+                392
+            ],
+            "ratings": [
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 26,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Action",
+                    "Comedy"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Happy",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                24,
+                941,
+                775,
+                517,
+                597,
+                270,
+                360,
+                854,
+                962
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                3,
+                3,
+                4,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 27,
+            "preferences": {
+                "genres_liked": [
+                    "Horror",
+                    "Comedy"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                574,
+                325,
+                438,
+                207,
+                318,
+                837,
+                70,
+                187,
+                152,
+                89
+            ],
+            "ratings": [
+                5,
+                3,
+                4,
+                4,
+                3,
+                5,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 28,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Documentary",
+                    "Music",
+                    "Sci-Fi"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                637,
+                366,
+                574,
+                292,
+                286,
+                409,
+                848,
+                21
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                3,
+                5,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 29,
+            "preferences": {
+                "genres_liked": [
+                    "History",
+                    "Comedy",
+                    "Mystery"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                583,
+                477,
+                498,
+                767,
+                25,
+                403,
+                620,
+                652,
+                432,
+                961
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                3,
+                5,
+                3,
+                3,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 30,
+            "preferences": {
+                "genres_liked": [
+                    "Action",
+                    "Horror",
+                    "Mystery"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                861,
+                895,
+                679,
+                25,
+                137
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 31,
+            "preferences": {
+                "genres_liked": [
+                    "Mystery",
+                    "Documentary"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                524,
+                901,
+                585,
+                391,
+                302,
+                850,
+                883,
+                837,
+                770,
+                163
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                3,
+                5,
+                5,
+                3,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 32,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Adventure",
+                    "Crime"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                797,
+                944,
+                507,
+                68,
+                930
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 33,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Comedy",
+                    "Sci-Fi"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Relaxed",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                215,
+                956,
+                624,
+                654,
+                21
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 34,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Action",
+                    "History",
+                    "Documentary",
+                    "Animation"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                679,
+                71,
+                651,
+                397,
+                899,
+                721
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 35,
+            "preferences": {
+                "genres_liked": [
+                    "Music",
+                    "War"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                942,
+                712,
+                111,
+                137,
+                201,
+                963,
+                600
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                4,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 36,
+            "preferences": {
+                "genres_liked": [
+                    "Fantasy",
+                    "Drama"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                853,
+                462,
+                490,
+                444,
+                698,
+                800,
+                332,
+                86,
+                206,
+                407
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                5,
+                5,
+                4,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 37,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Adventure"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                136,
+                75,
+                615,
+                836,
+                650,
+                189,
+                804,
+                928,
+                353
+            ],
+            "ratings": [
+                4,
+                3,
+                3,
+                5,
+                4,
+                5,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 38,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Documentary",
+                    "Animation",
+                    "Horror"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                718,
+                263,
+                210
+            ],
+            "ratings": [
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 39,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Family"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                702,
+                907,
+                163,
+                478,
+                254,
+                238,
+                826,
+                19,
+                65
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                3,
+                5,
+                4,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 40,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Action",
+                    "Adventure",
+                    "History",
+                    "Music"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                160,
+                239,
+                497,
+                436,
+                316,
+                559,
+                162
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                5,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 41,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Crime"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Inspired",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                394,
+                120,
+                421,
+                8,
+                986,
+                369,
+                69,
+                164
+            ],
+            "ratings": [
+                5,
+                5,
+                4,
+                3,
+                4,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 42,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Mystery"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                353,
+                748,
+                404,
+                905,
+                473,
+                749,
+                391,
+                163,
+                118
+            ],
+            "ratings": [
+                3,
+                5,
+                4,
+                5,
+                4,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 43,
+            "preferences": {
+                "genres_liked": [
+                    "Romance",
+                    "Animation"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Relaxed",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                588,
+                920,
+                779,
+                770
+            ],
+            "ratings": [
+                5,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 44,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Family",
+                    "Comedy",
+                    "Fantasy",
+                    "Romance"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Inspired",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                705,
+                252,
+                282,
+                885,
+                425,
+                151,
+                743
+            ],
+            "ratings": [
+                5,
+                3,
+                4,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 45,
+            "preferences": {
+                "genres_liked": [
+                    "Romance",
+                    "Animation",
+                    "Adventure",
+                    "History",
+                    "Crime"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Happy",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                668,
+                705,
+                580
+            ],
+            "ratings": [
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 46,
+            "preferences": {
+                "genres_liked": [
+                    "Comedy",
+                    "War",
+                    "Action",
+                    "Documentary"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                724,
+                721,
+                375,
+                424
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 47,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Mystery",
+                    "Family",
+                    "Romance"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                849,
+                24,
+                725,
+                605,
+                544
+            ],
+            "ratings": [
+                5,
+                3,
+                4,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 48,
+            "preferences": {
+                "genres_liked": [
+                    "Comedy",
+                    "Fantasy",
+                    "Action",
+                    "Romance"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                494,
+                559,
+                322,
+                444,
+                287,
+                40
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 49,
+            "preferences": {
+                "genres_liked": [
+                    "Romance",
+                    "Thriller"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Happy",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                280,
+                392,
+                953,
+                930,
+                931,
+                986,
+                133
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 50,
+            "preferences": {
+                "genres_liked": [
+                    "Mystery",
+                    "Thriller",
+                    "Documentary",
+                    "Drama",
+                    "Music"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                45,
+                367,
+                457,
+                91,
+                917,
+                643,
+                255,
+                681,
+                514
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                4,
+                3,
+                3,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 51,
+            "preferences": {
+                "genres_liked": [
+                    "Music",
+                    "Mystery"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Happy",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                114,
+                658,
+                171,
+                131,
+                265,
+                350,
+                726
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 52,
+            "preferences": {
+                "genres_liked": [
+                    "Music",
+                    "Crime"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Happy",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                679,
+                973,
+                226,
+                592,
+                107
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 53,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Western",
+                    "Comedy",
+                    "Horror",
+                    "Action"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Happy",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                382,
+                550,
+                707,
+                226,
+                859,
+                62,
+                827
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                5,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 54,
+            "preferences": {
+                "genres_liked": [
+                    "Crime",
+                    "Animation"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                683,
+                44,
+                547,
+                876,
+                293,
+                270,
+                768,
+                225
+            ],
+            "ratings": [
+                5,
+                3,
+                4,
+                4,
+                4,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 55,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Drama"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                112,
+                896,
+                603,
+                548,
+                364
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 56,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Western",
+                    "Family",
+                    "History",
+                    "Crime"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                100,
+                327,
+                835,
+                625
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 57,
+            "preferences": {
+                "genres_liked": [
+                    "Animation",
+                    "Western",
+                    "Drama",
+                    "Adventure"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                457,
+                414,
+                227,
+                547
+            ],
+            "ratings": [
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 58,
+            "preferences": {
+                "genres_liked": [
+                    "Horror",
+                    "Documentary"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                296,
+                183,
+                280,
+                127,
+                601,
+                685,
+                421,
+                486,
+                42
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                5,
+                4,
+                3,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 59,
+            "preferences": {
+                "genres_liked": [
+                    "Horror",
+                    "Romance",
+                    "War"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                243,
+                431,
+                901
+            ],
+            "ratings": [
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 60,
+            "preferences": {
+                "genres_liked": [
+                    "Documentary",
+                    "Sci-Fi",
+                    "Action",
+                    "Adventure"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                947,
+                191,
+                545,
+                415,
+                103,
+                554,
+                745,
+                270,
+                832
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                5,
+                3,
+                4,
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 61,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Music"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                753,
+                181,
+                694,
+                238,
+                928
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 62,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Romance",
+                    "Animation",
+                    "Comedy",
+                    "Action"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Relaxed",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                713,
+                364,
+                466,
+                94
+            ],
+            "ratings": [
+                5,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 63,
+            "preferences": {
+                "genres_liked": [
+                    "Drama",
+                    "Documentary",
+                    "Thriller"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                2,
+                148,
+                24,
+                886,
+                551
+            ],
+            "ratings": [
+                5,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 64,
+            "preferences": {
+                "genres_liked": [
+                    "Action",
+                    "Mystery"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                937,
+                237,
+                950,
+                276,
+                704,
+                96,
+                119,
+                744,
+                315
+            ],
+            "ratings": [
+                5,
+                4,
+                5,
+                5,
+                3,
+                5,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 65,
+            "preferences": {
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Family",
+                    "Adventure",
+                    "Documentary"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                879,
+                500,
+                942,
+                362,
+                690,
+                816,
+                77,
+                530,
+                269,
+                799
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                5,
+                3,
+                3,
+                5,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 66,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Action"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                834,
+                66,
+                995,
+                740,
+                422,
+                724,
+                213,
+                928,
+                880,
+                156
+            ],
+            "ratings": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                5,
+                5,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 67,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "War",
+                    "Fantasy",
+                    "Music"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Inspired",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                929,
+                337,
+                489
+            ],
+            "ratings": [
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 68,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Horror",
+                    "Mystery"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Relaxed",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                20,
+                427,
+                272
+            ],
+            "ratings": [
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 69,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Music"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                681,
+                619,
+                369,
+                568,
+                882,
+                130,
+                412,
+                36,
+                368,
+                405
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                5,
+                4,
+                4,
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 70,
+            "preferences": {
+                "genres_liked": [
+                    "Action",
+                    "Horror"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Happy",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                833,
+                130,
+                403,
+                650,
+                562,
+                907,
+                305,
+                267,
+                675
+            ],
+            "ratings": [
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 71,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Action",
+                    "Music",
+                    "Family"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Inspired",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                336,
+                445,
+                890,
+                661,
+                799,
+                926,
+                80,
+                928,
+                671,
+                646
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                5,
+                5,
+                5,
+                5,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 72,
+            "preferences": {
+                "genres_liked": [
+                    "Family",
+                    "Comedy"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                778,
+                720,
+                388,
+                860,
+                591,
+                41,
+                495,
+                325,
+                137,
+                350
+            ],
+            "ratings": [
+                5,
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 73,
+            "preferences": {
+                "genres_liked": [
+                    "Horror",
+                    "Crime",
+                    "Action"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                105,
+                899,
+                580,
+                593
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 74,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Horror"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                44,
+                956,
+                95,
+                459,
+                50,
+                973,
+                477
+            ],
+            "ratings": [
+                4,
+                4,
+                4,
+                5,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 75,
+            "preferences": {
+                "genres_liked": [
+                    "History",
+                    "Thriller",
+                    "War"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                582,
+                999,
+                449,
+                949,
+                505,
+                877,
+                122,
+                899,
+                814
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 76,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Family"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Inspired",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                116,
+                991,
+                982,
+                197,
+                499
+            ],
+            "ratings": [
+                5,
+                4,
+                5,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 77,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Fantasy",
+                    "Comedy"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Happy",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                810,
+                601,
+                647,
+                113
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 78,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Western",
+                    "Animation",
+                    "Music",
+                    "Fantasy"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                582,
+                235,
+                32,
+                728,
+                923,
+                793,
+                447,
+                52,
+                911
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                3,
+                4,
+                5,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 79,
+            "preferences": {
+                "genres_liked": [
+                    "Horror",
+                    "Drama",
+                    "War",
+                    "Thriller"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Excited",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                260,
+                604,
+                818,
+                926,
+                322,
+                611,
+                792,
+                295
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                5,
+                4,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 80,
+            "preferences": {
+                "genres_liked": [
+                    "Music",
+                    "Family"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Inspired",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                995,
+                102,
+                762,
+                684,
+                339,
+                540,
+                157,
+                395
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                4,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 81,
+            "preferences": {
+                "genres_liked": [
+                    "Animation",
+                    "Western",
+                    "Romance",
+                    "Music"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                196,
+                757,
+                470,
+                710
+            ],
+            "ratings": [
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 82,
+            "preferences": {
+                "genres_liked": [
+                    "Animation",
+                    "History"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Relaxed",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                221,
+                279,
+                36,
+                275,
+                794
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 83,
+            "preferences": {
+                "genres_liked": [
+                    "Mystery",
+                    "Fantasy",
+                    "Comedy"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                126,
+                867,
+                197,
+                594,
+                207,
+                73,
+                90,
+                495
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                5,
+                3,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 84,
+            "preferences": {
+                "genres_liked": [
+                    "Crime",
+                    "Drama",
+                    "Documentary"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                420,
+                892,
+                67,
+                735,
+                817,
+                620
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 85,
+            "preferences": {
+                "genres_liked": [
+                    "Western",
+                    "Crime"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                821,
+                545,
+                870,
+                787,
+                769,
+                212,
+                815
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                3,
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 86,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Horror"
+                ],
+                "mood": "Energetic",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                443,
+                867,
+                220,
+                156,
+                243,
+                549
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 87,
+            "preferences": {
+                "genres_liked": [
+                    "Drama",
+                    "Fantasy",
+                    "Sci-Fi",
+                    "Music"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Relaxed",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                571,
+                654,
+                108,
+                417
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 88,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Music"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                765,
+                778,
+                254,
+                700,
+                318,
+                877,
+                323,
+                869,
+                226,
+                731
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                4,
+                3,
+                3,
+                5,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 89,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "History",
+                    "Romance"
+                ],
+                "mood": "Stressed",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                278,
+                853,
+                211,
+                792,
+                157,
+                356,
+                767,
+                319,
+                376,
+                909
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                5,
+                3,
+                4,
+                5,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 90,
+            "preferences": {
+                "genres_liked": [
+                    "Drama",
+                    "Fantasy",
+                    "Sci-Fi",
+                    "War",
+                    "Thriller"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Excited",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                249,
+                452,
+                101,
+                544
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 91,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Western",
+                    "Action",
+                    "Adventure"
+                ],
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                741,
+                73,
+                452
+            ],
+            "ratings": [
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 92,
+            "preferences": {
+                "genres_liked": [
+                    "Comedy",
+                    "Sci-Fi"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference"
+            },
+            "watched_movies": [
+                18,
+                533,
+                242,
+                344,
+                106,
+                538,
+                598,
+                445,
+                698
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                5,
+                4,
+                4,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 93,
+            "preferences": {
+                "genres_liked": [
+                    "War",
+                    "Crime",
+                    "Action",
+                    "Sci-Fi"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Relaxed",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                562,
+                965,
+                298,
+                757,
+                324,
+                147,
+                990
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 94,
+            "preferences": {
+                "genres_liked": [
+                    "Thriller",
+                    "Documentary"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Happy",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                624,
+                763,
+                151,
+                725,
+                545,
+                101,
+                471,
+                288
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                3,
+                4,
+                5,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 95,
+            "preferences": {
+                "genres_liked": [
+                    "Animation",
+                    "Crime"
+                ],
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                103,
+                413,
+                705,
+                513,
+                390,
+                643,
+                364,
+                90,
+                526,
+                409
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                5,
+                3,
+                3,
+                4,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 96,
+            "preferences": {
+                "genres_liked": [
+                    "Adventure",
+                    "Fantasy",
+                    "Romance",
+                    "History"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                608,
+                749,
+                667,
+                211,
+                798,
+                797
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 97,
+            "preferences": {
+                "genres_liked": [
+                    "Romance",
+                    "Family"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Inspired",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language"
+            },
+            "watched_movies": [
+                706,
+                616,
+                840,
+                13,
+                47,
+                993,
+                538,
+                859,
+                23
+            ],
+            "ratings": [
+                5,
+                4,
+                5,
+                5,
+                4,
+                3,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 98,
+            "preferences": {
+                "genres_liked": [
+                    "Animation",
+                    "Horror",
+                    "Western",
+                    "Adventure",
+                    "Documentary"
+                ],
+                "mood": "Happy",
+                "desired_mood": "Happy",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                213,
+                121,
+                406
+            ],
+            "ratings": [
+                4,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 99,
+            "preferences": {
+                "genres_liked": [
+                    "Crime",
+                    "Documentary",
+                    "Adventure",
+                    "Fantasy",
+                    "Romance"
+                ],
+                "mood": "Thoughtful",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                730,
+                737,
+                914,
+                424,
+                139,
+                264
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 100,
+            "preferences": {
+                "genres_liked": [
+                    "Comedy",
+                    "Fantasy",
+                    "Music",
+                    "Thriller",
+                    "History"
+                ],
+                "mood": "Sad",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English"
+            },
+            "watched_movies": [
+                314,
+                620,
+                695,
+                675,
+                838,
+                808,
+                350,
+                307,
+                749,
+                824
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                3,
+                3,
+                5,
+                5
+            ]
+        }
+    ]
+}
