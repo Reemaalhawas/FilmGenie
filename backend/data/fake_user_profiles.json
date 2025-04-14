@@ -1,0 +1,114 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "name": "Alex Johnson",
+            "preferences": {
+                "genres_liked": ["Action", "Sci-Fi", "Thriller"],
+                "genres_disliked": ["Romance", "Horror"],
+                "mood": "Excited",
+                "desired_mood": "Thrilled",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [1, 2, 3, 4, 5],
+            "ratings": [5, 4, 5, 4, 5]
+        },
+        {
+            "user_id": 2,
+            "name": "Sarah Williams",
+            "preferences": {
+                "genres_liked": ["Drama", "Romance", "Comedy"],
+                "genres_disliked": ["Horror", "Action"],
+                "mood": "Happy",
+                "desired_mood": "Inspired",
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [6, 7, 8, 9, 10],
+            "ratings": [5, 4, 5, 4, 5]
+        },
+        {
+            "user_id": 3,
+            "name": "Michael Chen",
+            "preferences": {
+                "genres_liked": ["Documentary", "Drama", "Sci-Fi"],
+                "genres_disliked": ["Horror", "Romance"],
+                "mood": "Thoughtful",
+                "desired_mood": "Thoughtful",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [11, 12, 13, 14, 15],
+            "ratings": [5, 5, 4, 5, 4]
+        },
+        {
+            "user_id": 4,
+            "name": "Emma Rodriguez",
+            "preferences": {
+                "genres_liked": ["Comedy", "Romance", "Drama"],
+                "genres_disliked": ["Horror", "Thriller"],
+                "mood": "Happy",
+                "desired_mood": "Relaxed",
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [16, 17, 18, 19, 20],
+            "ratings": [4, 5, 4, 5, 4]
+        },
+        {
+            "user_id": 5,
+            "name": "David Kim",
+            "preferences": {
+                "genres_liked": ["Action", "Thriller", "Sci-Fi"],
+                "genres_disliked": ["Romance", "Documentary"],
+                "mood": "Energetic",
+                "desired_mood": "Excited",
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [21, 22, 23, 24, 25],
+            "ratings": [5, 4, 5, 4, 5]
+        }
+    ]
+} 

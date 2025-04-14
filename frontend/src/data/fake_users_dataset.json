@@ -1,0 +1,4104 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "name": "User1",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Drama"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                534,
+                476,
+                774,
+                744,
+                361
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 2,
+            "name": "User2",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Documentary"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                855,
+                53,
+                256,
+                54,
+                98
+            ],
+            "ratings": [
+                5,
+                5,
+                5,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 3,
+            "name": "User3",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Documentary"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                820,
+                181,
+                514,
+                858,
+                186
+            ],
+            "ratings": [
+                5,
+                4,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 4,
+            "name": "User4",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Horror"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                303,
+                233,
+                466,
+                199,
+                122
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 5,
+            "name": "User5",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                77,
+                923,
+                685,
+                255,
+                401
+            ],
+            "ratings": [
+                5,
+                5,
+                5,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 6,
+            "name": "User6",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Horror"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                892,
+                624,
+                970,
+                272,
+                871
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 7,
+            "name": "User7",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Romance"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                279,
+                770,
+                860,
+                591,
+                145
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 8,
+            "name": "User8",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Thriller"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                808,
+                639,
+                337,
+                641,
+                929
+            ],
+            "ratings": [
+                5,
+                5,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 9,
+            "name": "User9",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Documentary"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                831,
+                698,
+                400,
+                249,
+                432
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 10,
+            "name": "User10",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                442,
+                451,
+                170,
+                652,
+                418
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 11,
+            "name": "User11",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Drama"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                180,
+                532,
+                463,
+                486,
+                551
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 12,
+            "name": "User12",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                51,
+                711,
+                317,
+                386,
+                486
+            ],
+            "ratings": [
+                5,
+                5,
+                3,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 13,
+            "name": "User13",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Horror"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                86,
+                734,
+                7,
+                422,
+                616
+            ],
+            "ratings": [
+                3,
+                5,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 14,
+            "name": "User14",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                765,
+                222,
+                778,
+                374,
+                267
+            ],
+            "ratings": [
+                5,
+                3,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 15,
+            "name": "User15",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Horror"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                979,
+                480,
+                553,
+                356,
+                380
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 16,
+            "name": "User16",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                616,
+                693,
+                436,
+                553,
+                618
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 17,
+            "name": "User17",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                102,
+                466,
+                7,
+                189,
+                169
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 18,
+            "name": "User18",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Horror"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                273,
+                322,
+                136,
+                517,
+                25
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 19,
+            "name": "User19",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                848,
+                6,
+                679,
+                461,
+                839
+            ],
+            "ratings": [
+                5,
+                3,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 20,
+            "name": "User20",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Action"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                480,
+                138,
+                235,
+                941,
+                41
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 21,
+            "name": "User21",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                29,
+                753,
+                917,
+                660,
+                369
+            ],
+            "ratings": [
+                5,
+                5,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 22,
+            "name": "User22",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Drama"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                761,
+                590,
+                250,
+                919,
+                299
+            ],
+            "ratings": [
+                5,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 23,
+            "name": "User23",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Comedy"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                397,
+                85,
+                791,
+                580,
+                33
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 24,
+            "name": "User24",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Action"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                747,
+                481,
+                898,
+                674,
+                975
+            ],
+            "ratings": [
+                5,
+                5,
+                3,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 25,
+            "name": "User25",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Documentary"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                844,
+                403,
+                293,
+                240,
+                497
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 26,
+            "name": "User26",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                470,
+                194,
+                814,
+                334,
+                28
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 27,
+            "name": "User27",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Action"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                691,
+                349,
+                295,
+                833,
+                983
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 28,
+            "name": "User28",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Horror"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                850,
+                401,
+                245,
+                506,
+                386
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 29,
+            "name": "User29",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                826,
+                894,
+                336,
+                773,
+                731
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 30,
+            "name": "User30",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Documentary"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                33,
+                296,
+                793,
+                574,
+                705
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 31,
+            "name": "User31",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Action"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                28,
+                5,
+                908,
+                570,
+                128
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 32,
+            "name": "User32",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                586,
+                270,
+                548,
+                514,
+                206
+            ],
+            "ratings": [
+                5,
+                4,
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 33,
+            "name": "User33",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Action"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                783,
+                468,
+                692,
+                605,
+                954
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 34,
+            "name": "User34",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Horror"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                888,
+                951,
+                70,
+                810,
+                797
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 35,
+            "name": "User35",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Horror"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                987,
+                192,
+                30,
+                438,
+                994
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 36,
+            "name": "User36",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                157,
+                152,
+                513,
+                485,
+                473
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 37,
+            "name": "User37",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                773,
+                184,
+                597,
+                653,
+                732
+            ],
+            "ratings": [
+                5,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 38,
+            "name": "User38",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Drama"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                600,
+                691,
+                579,
+                718,
+                282
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 39,
+            "name": "User39",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                583,
+                140,
+                237,
+                341,
+                290
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 40,
+            "name": "User40",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                186,
+                394,
+                125,
+                578,
+                478
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 41,
+            "name": "User41",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                625,
+                275,
+                996,
+                224,
+                610
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 42,
+            "name": "User42",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                341,
+                807,
+                292,
+                377,
+                969
+            ],
+            "ratings": [
+                5,
+                5,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 43,
+            "name": "User43",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Horror"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                194,
+                765,
+                831,
+                819,
+                378
+            ],
+            "ratings": [
+                4,
+                4,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 44,
+            "name": "User44",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                771,
+                702,
+                182,
+                4,
+                175
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 45,
+            "name": "User45",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Drama"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                371,
+                79,
+                188,
+                108,
+                984
+            ],
+            "ratings": [
+                4,
+                5,
+                3,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 46,
+            "name": "User46",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Documentary"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                307,
+                294,
+                184,
+                472,
+                383
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 47,
+            "name": "User47",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Documentary"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                428,
+                34,
+                100,
+                552,
+                652
+            ],
+            "ratings": [
+                4,
+                5,
+                3,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 48,
+            "name": "User48",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                373,
+                688,
+                392,
+                521,
+                562
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 49,
+            "name": "User49",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Romance"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                122,
+                931,
+                885,
+                688,
+                609
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 50,
+            "name": "User50",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Action"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                850,
+                951,
+                798,
+                566,
+                825
+            ],
+            "ratings": [
+                5,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 51,
+            "name": "User51",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                642,
+                220,
+                350,
+                620,
+                646
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 52,
+            "name": "User52",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                379,
+                704,
+                221,
+                516,
+                318
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 53,
+            "name": "User53",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                19,
+                23,
+                481,
+                352,
+                322
+            ],
+            "ratings": [
+                4,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 54,
+            "name": "User54",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Romance"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                745,
+                402,
+                203,
+                9,
+                723
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 55,
+            "name": "User55",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                414,
+                467,
+                190,
+                228,
+                985
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 56,
+            "name": "User56",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                511,
+                59,
+                453,
+                439,
+                216
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 57,
+            "name": "User57",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                736,
+                724,
+                44,
+                882,
+                373
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 58,
+            "name": "User58",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Comedy"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                874,
+                388,
+                566,
+                592,
+                158
+            ],
+            "ratings": [
+                4,
+                5,
+                4,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 59,
+            "name": "User59",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Documentary"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                204,
+                868,
+                930,
+                348,
+                804
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 60,
+            "name": "User60",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Comedy"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                930,
+                840,
+                162,
+                453,
+                643
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 61,
+            "name": "User61",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Documentary",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                453,
+                701,
+                454,
+                92,
+                621
+            ],
+            "ratings": [
+                3,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 62,
+            "name": "User62",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Comedy",
+                    "Romance",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Documentary"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                613,
+                687,
+                661,
+                873,
+                346
+            ],
+            "ratings": [
+                4,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 63,
+            "name": "User63",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Action",
+                    "Documentary",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Thriller"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                287,
+                967,
+                980,
+                927,
+                46
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 64,
+            "name": "User64",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Comedy",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Thriller"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                816,
+                950,
+                220,
+                381,
+                905
+            ],
+            "ratings": [
+                3,
+                5,
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 65,
+            "name": "User65",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Thriller",
+                    "Drama",
+                    "Romance"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Comedy"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                666,
+                198,
+                961,
+                795,
+                516
+            ],
+            "ratings": [
+                5,
+                3,
+                3,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 66,
+            "name": "User66",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Drama",
+                    "Comedy",
+                    "Romance"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Action"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                304,
+                400,
+                183,
+                363,
+                878
+            ],
+            "ratings": [
+                4,
+                3,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 67,
+            "name": "User67",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Thriller",
+                    "Romance",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Documentary"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                772,
+                613,
+                893,
+                86,
+                966
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 68,
+            "name": "User68",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Action",
+                    "Documentary",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Comedy"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                833,
+                827,
+                823,
+                612,
+                580
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 69,
+            "name": "User69",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Horror",
+                    "Documentary"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                660,
+                809,
+                238,
+                928,
+                558
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 70,
+            "name": "User70",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Happy",
+                "genres_liked": [
+                    "Action",
+                    "Horror",
+                    "Documentary"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                283,
+                667,
+                179,
+                650,
+                832
+            ],
+            "ratings": [
+                4,
+                5,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 71,
+            "name": "User71",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Horror",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                148,
+                537,
+                886,
+                153,
+                876
+            ],
+            "ratings": [
+                3,
+                5,
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 72,
+            "name": "User72",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Action",
+                    "Sci-Fi",
+                    "Documentary"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Drama"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                987,
+                14,
+                673,
+                956,
+                248
+            ],
+            "ratings": [
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 73,
+            "name": "User73",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Action",
+                    "Documentary"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Comedy"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                432,
+                230,
+                788,
+                588,
+                127
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 74,
+            "name": "User74",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Drama",
+                    "Horror",
+                    "Action"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                804,
+                570,
+                873,
+                773,
+                807
+            ],
+            "ratings": [
+                4,
+                4,
+                5,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 75,
+            "name": "User75",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Happy",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Romance",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Drama"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                805,
+                347,
+                780,
+                577,
+                937
+            ],
+            "ratings": [
+                5,
+                3,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 76,
+            "name": "User76",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Happy",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Thriller",
+                    "Romance"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Horror"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                589,
+                770,
+                402,
+                90,
+                305
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                4,
+                4
+            ]
+        },
+        {
+            "user_id": 77,
+            "name": "User77",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Thriller",
+                    "Horror",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Comedy"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                713,
+                306,
+                533,
+                97,
+                474
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 78,
+            "name": "User78",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Documentary",
+                    "Comedy"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Thriller"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                937,
+                903,
+                635,
+                594,
+                6
+            ],
+            "ratings": [
+                5,
+                5,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 79,
+            "name": "User79",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Romance",
+                    "Action",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Drama"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                648,
+                542,
+                490,
+                853,
+                992
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 80,
+            "name": "User80",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Happy",
+                "genres_liked": [
+                    "Romance",
+                    "Horror",
+                    "Drama"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Thriller"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                921,
+                361,
+                236,
+                534,
+                755
+            ],
+            "ratings": [
+                4,
+                4,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 81,
+            "name": "User81",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Documentary",
+                    "Horror",
+                    "Romance"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                444,
+                775,
+                779,
+                283,
+                804
+            ],
+            "ratings": [
+                5,
+                4,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 82,
+            "name": "User82",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Documentary",
+                    "Horror",
+                    "Action"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Thriller"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                273,
+                423,
+                665,
+                100,
+                727
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "user_id": 83,
+            "name": "User83",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Drama",
+                    "Action"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                868,
+                92,
+                189,
+                213,
+                282
+            ],
+            "ratings": [
+                3,
+                5,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 84,
+            "name": "User84",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Horror",
+                    "Thriller",
+                    "Action"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                43,
+                304,
+                918,
+                376,
+                858
+            ],
+            "ratings": [
+                3,
+                3,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 85,
+            "name": "User85",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Drama",
+                    "Horror",
+                    "Documentary"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Thriller"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                687,
+                857,
+                986,
+                473,
+                567
+            ],
+            "ratings": [
+                4,
+                3,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 86,
+            "name": "User86",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Horror",
+                    "Drama",
+                    "Comedy"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                866,
+                604,
+                921,
+                453,
+                119
+            ],
+            "ratings": [
+                5,
+                3,
+                5,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 87,
+            "name": "User87",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Action",
+                    "Documentary",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Romance"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                718,
+                151,
+                422,
+                497,
+                819
+            ],
+            "ratings": [
+                5,
+                5,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 88,
+            "name": "User88",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Comedy",
+                    "Sci-Fi",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Drama"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                58,
+                656,
+                298,
+                435,
+                108
+            ],
+            "ratings": [
+                3,
+                5,
+                5,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 89,
+            "name": "User89",
+            "preferences": {
+                "mood": "Calm",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Romance",
+                    "Thriller",
+                    "Comedy"
+                ],
+                "genres_disliked": [
+                    "Sci-Fi",
+                    "Drama"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                387,
+                516,
+                452,
+                212,
+                602
+            ],
+            "ratings": [
+                4,
+                5,
+                3,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 90,
+            "name": "User90",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Action",
+                    "Horror",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Thriller"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "English",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                901,
+                326,
+                662,
+                430,
+                916
+            ],
+            "ratings": [
+                5,
+                5,
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 91,
+            "name": "User91",
+            "preferences": {
+                "mood": "Stressed",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Romance",
+                    "Sci-Fi",
+                    "Horror"
+                ],
+                "genres_disliked": [
+                    "Comedy",
+                    "Thriller"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Other"
+            },
+            "watched_movies": [
+                591,
+                674,
+                424,
+                89,
+                857
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "user_id": 92,
+            "name": "User92",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Horror",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Romance",
+                    "Documentary"
+                ],
+                "attention_level": "Casual (can multitask)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                301,
+                754,
+                474,
+                635,
+                971
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 93,
+            "name": "User93",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Romance",
+                    "Drama",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Horror"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Love complex mind-bending stories",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                972,
+                808,
+                847,
+                169,
+                655
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "user_id": 94,
+            "name": "User94",
+            "preferences": {
+                "mood": "Happy",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Comedy",
+                    "Documentary"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Horror"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Modern (1990-present)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Hulu"
+            },
+            "watched_movies": [
+                541,
+                900,
+                917,
+                529,
+                861
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "user_id": 95,
+            "name": "User95",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Sci-Fi",
+                    "Romance",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Comedy"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "English",
+                "actor_preference": "No preference",
+                "director_preference": "No preference",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                918,
+                398,
+                19,
+                526,
+                391
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                3,
+                5
+            ]
+        },
+        {
+            "user_id": 96,
+            "name": "User96",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Thoughtful",
+                "genres_liked": [
+                    "Horror",
+                    "Drama",
+                    "Comedy"
+                ],
+                "genres_disliked": [
+                    "Documentary",
+                    "Action"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Prefer shorter movies",
+                "language_preference": "No preference",
+                "actor_preference": "No preference",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Disney+"
+            },
+            "watched_movies": [
+                430,
+                659,
+                204,
+                629,
+                427
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                5,
+                4
+            ]
+        },
+        {
+            "user_id": 97,
+            "name": "User97",
+            "preferences": {
+                "mood": "Sad",
+                "desired_mood": "Thrilled",
+                "genres_liked": [
+                    "Comedy",
+                    "Drama",
+                    "Thriller"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Sci-Fi"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Fast-paced",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "No preference",
+                "rating_preference": "No preference",
+                "streaming_preference": "No preference"
+            },
+            "watched_movies": [
+                671,
+                38,
+                80,
+                647,
+                397
+            ],
+            "ratings": [
+                3,
+                5,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 98,
+            "name": "User98",
+            "preferences": {
+                "mood": "Energetic",
+                "desired_mood": "Excited",
+                "genres_liked": [
+                    "Horror",
+                    "Comedy",
+                    "Sci-Fi"
+                ],
+                "genres_disliked": [
+                    "Thriller",
+                    "Romance"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Prefer simple plots",
+                "pacing_preference": "Moderate pace",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "No preference",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "No preference",
+                "streaming_preference": "Amazon Prime"
+            },
+            "watched_movies": [
+                732,
+                289,
+                569,
+                26,
+                197
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                3,
+                4
+            ]
+        },
+        {
+            "user_id": 99,
+            "name": "User99",
+            "preferences": {
+                "mood": "Excited",
+                "desired_mood": "Relaxed",
+                "genres_liked": [
+                    "Thriller",
+                    "Sci-Fi",
+                    "Romance"
+                ],
+                "genres_disliked": [
+                    "Action",
+                    "Comedy"
+                ],
+                "attention_level": "Full attention required",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Love epic length movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                586,
+                613,
+                4,
+                668,
+                759
+            ],
+            "ratings": [
+                5,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        {
+            "user_id": 100,
+            "name": "User100",
+            "preferences": {
+                "mood": "Thoughtful",
+                "desired_mood": "Inspired",
+                "genres_liked": [
+                    "Documentary",
+                    "Drama",
+                    "Comedy"
+                ],
+                "genres_disliked": [
+                    "Horror",
+                    "Romance"
+                ],
+                "attention_level": "Moderate (some focus needed)",
+                "complexity_preference": "Like some complexity",
+                "pacing_preference": "Slow and steady",
+                "movie_length_preference": "Don't mind longer movies",
+                "language_preference": "Foreign language",
+                "actor_preference": "Yes, specific actor/director",
+                "director_preference": "Yes, specific director",
+                "time_period_preference": "Classic (pre-1990)",
+                "rating_preference": "Yes, highly rated only",
+                "streaming_preference": "Netflix"
+            },
+            "watched_movies": [
+                363,
+                502,
+                353,
+                18,
+                212
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                3,
+                5
+            ]
+        }
+    ]
+}
