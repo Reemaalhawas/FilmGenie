@@ -1,4 +1,4 @@
-// src/components/MovieCard.jsx - Complete replacement
+// src/components/MovieCard.jsx - Complete 
 
 import React from 'react';
 
