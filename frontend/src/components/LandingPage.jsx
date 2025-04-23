@@ -70,11 +70,9 @@ const LandingPage = () => {
     <div className="min-h-screen bg-gradient-to-b from-[#1A1A40] to-black text-white font-poppins relative overflow-x-hidden">
       <div className="absolute inset-0 pointer-events-none stars"></div>
 
-      {/* Header */}
       <header className="flex justify-between items-center p-4">
       </header>
 
-      {/* Hero */}
       <Element name="lamp">
         <div className="flex flex-col items-center justify-center text-center pt-12 pb-24 px-4">
           <h1 className="text-5xl font-bold mb-6 text-gold">Your Movie Wish, Granted.</h1>
@@ -94,7 +92,6 @@ const LandingPage = () => {
         </div>
       </Element>
 
-      {/* Transition Particles */}
       {isTeleporting && (
         <div className="fixed inset-0 z-50 pointer-events-none">
           <div className="absolute inset-0 bg-black bg-opacity-70 animate-fadeIn"></div>
@@ -123,7 +120,6 @@ const LandingPage = () => {
         </div>
       )}
 
-      {/* How It Works */}
       <Element name="how-it-works">
         <section className="py-16 px-6 max-w-6xl mx-auto text-center">
           <h2 className="text-3xl text-gold font-bold mb-10">How It Works</h2>

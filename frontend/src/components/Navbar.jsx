@@ -19,8 +19,6 @@ const Navbar = () => {
       </div>
       <div className="space-x-6 text-sm sm:text-base">
         <Link to="/" className={`hover:text-yellow-300 transition ${isActive("/")}`}>Home</Link>
-        <Link to="/quiz" className={`hover:text-yellow-300 transition ${isActive("/quiz")}`}>Quiz</Link>
-        <Link to="/recommend" className={`hover:text-yellow-300 transition ${isActive("/recommend")}`}>Recommend</Link>
         <Link to="/results" className={`hover:text-yellow-300 transition ${isActive("/results")}`}>Results</Link>
         <Link to="/login" className={`hover:text-yellow-300 transition ${isActive("/login")}`}>Login</Link>
       </div>

@@ -57,7 +57,6 @@ else:
 recommender.schedule_retraining(frequency_days=7)  # Retrain weekly
 
 
-
 @app.route('/api/recommend', methods=['POST'])
 def get_recommendations():
     try:
@@ -88,9 +87,14 @@ def get_recommendations():
             movie_id = swipe.get('movieId')
             liked = swipe.get('liked', False)
             if movie_id:
-                watched_movies.append(movie_id)
-                # Convert to rating: 5 for liked, 1 for disliked
-                ratings.append(5 if liked else 1)
+                # Ensure movie_id is an integer
+                try:
+                    movie_id = int(movie_id)
+                    watched_movies.append(movie_id)
+                    # Convert to rating: 5 for liked, 1 for disliked
+                    ratings.append(5 if liked else 1)
+                except (ValueError, TypeError):
+                    logger.warning(f"Skipping invalid movie ID: {movie_id}")
         
         # Create new user profile with both preferences and swipe data
         user_profile = {
@@ -109,7 +113,29 @@ def get_recommendations():
         
         # Generate recommendations
         logger.info("Generating recommendations...")
-        recommendations = recommender.recommend(user_id=temp_user_id, top_n=10)
+        
+        try:
+            recommendations = recommender.recommend(user_id=temp_user_id, top_n=10)
+        except Exception as model_error:
+            logger.error(f"Error in recommendation model: {str(model_error)}")
+            # Try with fallback method if available
+            try:
+                # Simple fallback recommendation based on preferences
+                genre_pref = preferences.get('genres_liked', ['Drama'])[0]  # Use first genre or Drama as default
+                fallback_movies = recommender.movies[
+                    recommender.movies['genres'].apply(
+                        lambda g: any(genre_pref.lower() in genre.lower() for genre in g)
+                    )
+                ].head(10)
+                recommendations = fallback_movies[['MovieID', 'Title']]
+                logger.info("Using fallback recommendation method")
+            except Exception as fallback_error:
+                logger.error(f"Fallback recommendation also failed: {str(fallback_error)}")
+                return jsonify({
+                    "status": "error",
+                    "message": "We couldn't generate recommendations at this time. Please try again with different preferences.",
+                    "recommendations": []
+                }), 500
         
         # Handle empty recommendations
         if recommendations.empty:
@@ -121,34 +147,40 @@ def get_recommendations():
             })
             
         # Add additional information to the response if available
-        if 'Year' in recommender.movies.columns and not recommendations.empty:
-            recommendations = recommendations.merge(
-                recommender.movies[['MovieID', 'Title', 'Year', 'CleanTitle', 'Genres']], 
-                on='MovieID', 
-                how='left'
-            )
-        
-        # Convert to a list of dictionaries for JSON response
-        results = recommendations.to_dict('records')
-        logger.info(f"Generated {len(results)} recommendations")
-        
-        return jsonify({
-            "status": "success",
-            "recommendations": results
-        })
+        try:
+            if 'Year' in recommender.movies.columns and not recommendations.empty:
+                recommendations = recommendations.merge(
+                    recommender.movies[['MovieID', 'Title', 'Year', 'CleanTitle', 'Genres']], 
+                    on='MovieID', 
+                    how='left'
+                )
+            
+            # Convert to a list of dictionaries for JSON response
+            results = recommendations.to_dict('records')
+            logger.info(f"Generated {len(results)} recommendations")
+            
+            return jsonify({
+                "status": "success",
+                "recommendations": results
+            })
+        except Exception as format_error:
+            # If error occurs in formatting the results, still return the basic recommendations
+            logger.error(f"Error formatting results: {str(format_error)}")
+            basic_results = [{"MovieID": row['MovieID'], "Title": row['Title']} 
+                            for _, row in recommendations.iterrows()]
+            
+            return jsonify({
+                "status": "success",
+                "recommendations": basic_results,
+                "message": "Basic recommendations provided due to formatting issues."
+            })
+            
     except Exception as e:
         logger.error(f"Error generating recommendations: {str(e)}")
         return jsonify({
             "status": "error",
-            "message": str(e),
+            "message": "An unexpected error occurred while generating your recommendations. Please try again.",
             "recommendations": []  # Always include empty recommendations array
-        }), 500
-    
-    except Exception as e:
-        logger.error(f"Error generating recommendations: {str(e)}")
-        return jsonify({
-            "status": "error",
-            "message": str(e)
         }), 500
 
 @app.route('/api/swipe', methods=['POST'])
@@ -289,6 +321,7 @@ def get_swipe_candidates():
             "status": "error",
             "message": str(e)
         }), 500
+    
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

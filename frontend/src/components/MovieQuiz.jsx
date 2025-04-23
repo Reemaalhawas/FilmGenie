@@ -18,17 +18,17 @@ const quizQuestions = [
   },
   {
     id: 'genres_liked',
-    question: 'Which genres do you enjoy the most? (Select up to 3)',
+    question: 'Which genres do you enjoy the most?',
     type: 'multiple',
     options: ['Action', 'Comedy', 'Drama', 'Sci-Fi', 'Romance', 'Thriller', 'Horror', 'Documentary'],
-    limit: 3,
+    limit: 1,
   },
   {
     id: 'genres_disliked',
-    question: 'Are there any genres you dislike or want to avoid? (Select up to 3)',
+    question: 'Are there any genres you dislike or want to avoid?',
     type: 'multiple',
     options: ['Action', 'Comedy', 'Drama', 'Sci-Fi', 'Romance', 'Thriller', 'Horror', 'Documentary'],
-    limit: 3,
+    limit: 1,
   },
   {
     id: 'focus_level',
@@ -55,22 +55,10 @@ const quizQuestions = [
     options: ['Prefer shorter movies', "Don't mind longer movies", 'Love epic length movies'],
   },
   {
-    id: 'language_preference',
-    question: 'Do you prefer movies in a specific language?',
-    type: 'single',
-    options: ['English', 'Foreign language', 'No preference'],
-  },
-  {
     id: 'actor_preference',
     question: 'Do you have a favorite actor or director?',
     type: 'single',
     options: ['Yes, specific actor/director', 'No preference'],
-  },
-  {
-    id: 'director_preference',
-    question: 'Do you have a favorite director?',
-    type: 'single',
-    options: ['Yes, specific director', 'No preference'],
   },
   {
     id: 'time_period_preference',
@@ -83,13 +71,6 @@ const quizQuestions = [
     question: 'Would you like recommendations based on highly-rated movies?',
     type: 'single',
     options: ['Yes, highly rated only', 'No preference'],
-  },
-  {
-    id: 'platform_preference',
-    question: 'Which streaming platforms do you use? (Select multiple)',
-    type: 'multiple',
-    options: ['Netflix', 'Amazon Prime', 'Hulu', 'Disney+', 'Other', 'No preference'],
-    limit: 3,
   },
 ];
 
@@ -123,7 +104,7 @@ const handleNext = () => {
   if (step < quizQuestions.length - 1) {
     setStep(step + 1);
   } else {
-    // Prepare the proper format for the backend
+    
     const formattedResponses = {
       mood: responses.mood || '',
       desired_mood: responses.emotional_impact || '',
@@ -139,10 +120,10 @@ const handleNext = () => {
       streaming_platform: responses.platform_preference || ''
     };
     
-    // Store the formatted responses for later use
+    
     localStorage.setItem('filmGenieResponses', JSON.stringify(formattedResponses));
     
-    // Navigate to the recommendation page
+    
     navigate('/recommend');
   }
 };

@@ -1,4 +1,4 @@
-// src/components/MovieCard.jsx - Complete 
+
 
 import React from 'react';
 
@@ -13,7 +13,7 @@ const MovieCard = ({
   cleanTitle, 
   reason 
 }) => {
-  // Extract year from title if not provided separately, and use cleanTitle if available
+  
   const displayTitle = cleanTitle || title.replace(/\s*\(\d{4}\)\s*$/, '');
   const displayYear = year || (title.match(/\((\d{4})\)/) ? title.match(/\((\d{4})\)/)[1] : 'Unknown');
   

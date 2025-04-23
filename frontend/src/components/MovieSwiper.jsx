@@ -1,4 +1,4 @@
-// src/components/MovieSwiper.jsx - Complete replacement
+
 
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -22,21 +22,21 @@ const MovieSwiper = () => {
       setIsLoading(true);
       
       try {
-        // Get preferences from quiz
+       
         const preferences = JSON.parse(localStorage.getItem('filmGenieResponses') || '{}');
         
-        // Fetch movies from our backend
+       
         const candidates = await getSwipeCandidates(preferences);
         
         if (candidates && candidates.length > 0) {
-          // Enrich with TMDB data for display
+          
           const enrichedMovies = await Promise.all(candidates.map(async (movie) => {
             try {
-              // Get title for searching (without year if possible)
+              
               const searchTitle = movie.CleanTitle || 
                 movie.Title.replace(/\s*\(\d{4}\)\s*$/, '');
                 
-              // Look up in TMDB for poster and additional info
+              
               const tmdbMovie = await lookupMovieInTMDB(searchTitle);
               
               return {
@@ -54,7 +54,7 @@ const MovieSwiper = () => {
             } catch (error) {
               console.error(`Error enriching movie ${movie.Title}:`, error);
               
-              // Return basic info if TMDB lookup fails
+              
               return {
                 id: movie.MovieID,
                 title: movie.Title,
@@ -88,9 +88,9 @@ const MovieSwiper = () => {
   }, [index]);
 
   const finish = (finalSwipes) => {
-    // Store ratings in localStorage
+    
     localStorage.setItem('filmGenieRated', JSON.stringify(finalSwipes));
-    // Navigate to results
+    
     navigate('/results');
   };
 
@@ -100,19 +100,19 @@ const MovieSwiper = () => {
     const currentMovie = movies[index];
     
     if (direction === 'up') {
-      // Skip - don't record any preference
+      
       advance(swipes);
       return;
     }
 
     const liked = direction === 'right';
     
-    // Record swipe in backend
+    
     try {
       await recordSwipe(currentMovie.id, liked);
     } catch (error) {
       console.error("Error recording swipe:", error);
-      // Continue even if recording fails
+      
     }
     
     const newSwipes = [...swipes, { ...currentMovie, liked }];
@@ -152,7 +152,7 @@ const MovieSwiper = () => {
         <span className="text-xl font-playfair font-bold text-[#DFB240] animate-pulse">Film Genie</span>
       </header>
 
-      {/* Loading state */}
+      
       {isLoading ? (
         <div className="text-center">
           <p className="text-xl text-[#DFB240] mb-2">Gathering movies for you...</p>
