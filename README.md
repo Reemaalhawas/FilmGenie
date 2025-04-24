@@ -76,9 +76,8 @@ Access at: `http://localhost:3000`
 ### Frontend
 - React.js
 - Tailwind CSS
-- Framer Motion
 - React Router
-- Axios
+
 
 ### Backend
 - Python
